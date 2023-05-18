@@ -5,8 +5,8 @@
 
 ## Основные инструменты и навыки, полученные при обучении:
 - Языки: Python, SQL
-- Анализ данных: библиотеки pandas, numpy, scipy, statsmodels
-- Визуализация: matplotlib, plotly, seaborn
+- Анализ данных: Pandas, Numpy, Scipy
+- Визуализация: Matplotlib, Plotly, Seaborn
 - Построение дашбордов: Tableau
 - Метрики юнит-экономики, когортный анализ
 - А/В-тестирование
